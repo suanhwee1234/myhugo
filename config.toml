@@ -1,0 +1,4 @@
+baseURL = 'http://suanhwee1234.github.io/myhugo'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'ananke'
